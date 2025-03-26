@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.App", "SMS.App\SMS.App.csproj", "{02B3426D-B955-4D09-A7E2-0131AADB6458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Domain", "SMS.Domain\SMS.Domain.csproj", "{4CAE7D11-168E-4E7F-A8DC-D1ECE896C9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B3426D-B955-4D09-A7E2-0131AADB6458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B3426D-B955-4D09-A7E2-0131AADB6458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B3426D-B955-4D09-A7E2-0131AADB6458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B3426D-B955-4D09-A7E2-0131AADB6458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAE7D11-168E-4E7F-A8DC-D1ECE896C9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAE7D11-168E-4E7F-A8DC-D1ECE896C9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAE7D11-168E-4E7F-A8DC-D1ECE896C9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAE7D11-168E-4E7F-A8DC-D1ECE896C9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5EB9DF-6452-429A-B246-FE3A1B19CD9B}
+	EndGlobalSection
+EndGlobal
